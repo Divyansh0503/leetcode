@@ -1,3 +1,5 @@
+//3756 - Concatenate Non-Zero Digits and Multiply by Sum II
+
 class Solution {
     private static final int MOD = 1000000007;
     private static final int MAX = 100001;
