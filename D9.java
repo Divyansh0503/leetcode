@@ -1,4 +1,4 @@
-
+//3532 - path-existence-queries-in-a-graph-i
 
 class Solution {
     public boolean[] pathExistenceQueries(int n, int[] nums, int maxDiff, int[][] q) {
