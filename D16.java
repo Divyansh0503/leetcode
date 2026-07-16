@@ -1,4 +1,4 @@
-//
+//3867- Sum of GCD of Formed Pairs
 
 class Solution {
     private int gcd(int a, int b) { return b == 0 ? a : gcd(b, a % b); }
